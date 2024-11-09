@@ -1,0 +1,2 @@
+export PATH="${PATH}:/home/sanakin/opt/bin
+export PATH="${PATH}:/home/sanakin/opt/bin
